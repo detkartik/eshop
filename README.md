@@ -20,8 +20,8 @@
   ```
 - Clone project
   ```sh
-  git clone git@github.com:detkartik/contentmanagementsystem.git
-  cd contentmanagementsystem/
+  git clone git@github.com:detkartik/eshop.git
+  cd eshop/
   ```
 - Create virtualenv
   ```sh
