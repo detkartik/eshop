@@ -26,8 +26,8 @@
 - Create virtualenv
   ```sh
   brew install mkvirtualenv
-  mkvirtualenv --python=/usr/local/bin/python3 cms
-  workon cms
+  mkvirtualenv --python=/usr/local/bin/python3 eshop
+  workon eshop
   ```
 - Install packages
   ```sh
